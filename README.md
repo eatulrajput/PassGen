@@ -98,8 +98,8 @@ Open your browser and visit `http://127.0.0.1:8000/` to access the password gene
 
 ### Screenshots
 
-Image 1: [!Screenshot](https://github.com/eatulrajput/Password_Generator/blob/main/pasgen_web1.png)
-Image 2: [!Screenshot](https://github.com/eatulrajput/Password_Generator/blob/main/pasgen_web2.png)
+Image 1: ![Screenshot](https://github.com/eatulrajput/Password_Generator/blob/main/pasgen_web1.png)
+Image 2: ![Screenshot](https://github.com/eatulrajput/Password_Generator/blob/main/pasgen_web2.png)
 
 Contribution
 
