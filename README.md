@@ -120,17 +120,3 @@ Acknowledgements
 - Pyperclip for clipboard functionality (if used).
 
 ---
-
-### Key Sections Explained
-
-- **Features**: Highlights what your password generator can do.
-- **Tech Stack**: Specifies the technologies used in the project.
-- **Project Structure**: Gives a clear view of the folder and file structure.
-- **Setup and Installation**: Provides step-by-step instructions to set up the project locally.
-- **Usage**: Explains how to use the password generator once it's running.
-- **Contribution**: Explains how others can contribute to your project.
-- **License**: Defines the licensing terms.
-
-You can customize the content as needed, and remember to replace `https://github.com/your-username/password-generator.git` with the actual link to your GitHub repository if you have one. If you take a screenshot of the project running in the browser, you can include it in the "Screenshots" section.
-
-Let me know if you'd like any adjustments or additional information for the `README.md`!
