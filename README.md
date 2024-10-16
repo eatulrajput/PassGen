@@ -17,6 +17,7 @@ This is a simple web-based password generator built using Django. Users can spec
 
 ## Project Structure
 
+```bash
 password_generator/
  │ ├── manage.py # Django project management script 
  ├── passgen/ # Main Django app 
@@ -30,6 +31,7 @@ password_generator/
  │ ├── urls.py # URL routing for the app 
  │ └── models.py # (Empty) Model file 
  └── README.md # Project documentation
+```
 
 ## Setup and Installation
 
@@ -69,24 +71,23 @@ If requirements.txt isn't available, you can manually install Django:
 
 ```bash
     pip install django
-    ```
+```
 
-4. Run migrations:   
+4. Run migrations:
 
-    ```bash
+```bash
     python manage.py migrate
-    ```
+```
 
 5. Run the Django development server:
 
-    ```bash
+```bash
     python manage.py runserver
-    ```
+```
 
 6. Access the web app:
 
 Open your browser and visit `http://127.0.0.1:8000/` to access the password generator.
-
 
 ### Usage
 
@@ -95,21 +96,20 @@ Open your browser and visit `http://127.0.0.1:8000/` to access the password gene
 - Click "Generate Passwords" to display the random passwords.
 - Click the "Copy" button next to each password to copy it to the clipboard.
 
-Screenshots
+### Screenshots
 
 Image 1: [!Screenshot](/pasgen_web1.png)
 Image 2: [!Screenshot](/pasgen_web2.png)
-
 
 Contribution
 
 If you'd like to contribute to this project:
 
-    Fork the repository.
-    Create a new branch (git checkout -b feature-branch).
-    Make your changes.
-    Commit and push your changes (git commit -am 'Add feature').
-    Create a pull request.
+- Fork the repository.
+- Create a new branch (git checkout -b feature-branch).
+- Make your changes.
+- Commit and push your changes (git commit -am 'Add feature').
+- Create a pull request.
 
 License
 
@@ -119,10 +119,9 @@ Acknowledgements
 - Django Documentation for excellent guides and tutorials.
 - Pyperclip for clipboard functionality (if used).
 
-
 ---
 
-### Key Sections Explained:
+### Key Sections Explained
 
 - **Features**: Highlights what your password generator can do.
 - **Tech Stack**: Specifies the technologies used in the project.
