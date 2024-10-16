@@ -118,5 +118,3 @@ Acknowledgements
 
 - Django Documentation for excellent guides and tutorials.
 - Pyperclip for clipboard functionality (if used).
-
----
