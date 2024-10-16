@@ -118,3 +118,6 @@ Acknowledgements
 
 - Django Documentation for excellent guides and tutorials.
 - Pyperclip for clipboard functionality (if used).
+
+## Note
+- password_generator.py is not related to webapp, it can run as a desktop app after execution.
